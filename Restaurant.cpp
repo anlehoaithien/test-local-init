@@ -1,6 +1,5 @@
 #include "main.h"
 extern int MAXSIZE;
-// comment 
 
 class imp_res : public Restaurant
 {
