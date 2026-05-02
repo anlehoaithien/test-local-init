@@ -1,2 +1,1 @@
-Line 1
-Line 2
+Change the first line of file to create conflict.
